@@ -1,2 +1,2 @@
-(https://travis-ci.org/tarakyda/lab05.svg?branch=main)
-!(https://travis-ci.org/tarakyda/lab05.svg?branch=main)
+(https://travis-ci.org/tarakyda/lab06.svg?branch=main)
+!(https://travis-ci.org/tarakyda/lab06.svg?branch=main)
