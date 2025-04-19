@@ -1,0 +1,14 @@
+Execute command: [
+  `which`
+  `cmake`
+]
+[/Users/ivankuzin/tarakyda/workspace/projects/lab07]> "which" "cmake"
+/opt/homebrew/bin/cmake
+Execute command: [
+  `cmake`
+  `--version`
+]
+[/Users/ivankuzin/tarakyda/workspace/projects/lab07]> "cmake" "--version"
+cmake version 3.31.6
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
